@@ -5,4 +5,4 @@ app = FastAPI()
 
 @app.get("/")
 def read_root():#recibe variables dentro del () ej: nom: str
-    return {"Hello": "World"}
+    return {"Hello": "Dany"}
